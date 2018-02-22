@@ -1,2 +1,3 @@
-# ysda-ml-theory
-Machine Learning Algorithms, YSDA, 2018
+# Links
+
+The Elements of Statistical Learning: https://web.stanford.edu/~hastie/ElemStatLearn/
